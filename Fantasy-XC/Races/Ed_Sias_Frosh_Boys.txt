@@ -1,0 +1,386 @@
+1.	FR	Shane Badcock		11:01.8	
+Dougherty Valley
+2.	FR	Furious Clay		11:03.6	
+Crystal Springs Uplands
+3.	FR	Omansh Bainsla		11:11.2	
+Dougherty Valley
+4.	FR	Tyler Allen		11:25.4	
+Alhambra
+5.	FR	Ravi Bhattarai		11:38.9	
+Dougherty Valley
+6.	FR	Andrew Richards		11:45.1	
+Dougherty Valley
+7.	FR	Mateo Malko-Allen		11:53.1	
+St Mary's College
+8.	FR	Daniel Municio		11:57.4	
+Dougherty Valley
+9.	FR	Colin Bailey		12:06.9	
+Bellarmine College Prep
+10.	FR	Benjamin Choe		12:20.9	
+Maria Carrillo
+11.	FR	Chris Martinez		12:24.2	
+Newark Memorial
+12.	FR	Brandon Yee		12:25.0	
+Dougherty Valley
+13.	FR	Adrian Licea		12:30.9	
+St Mary's College
+14.	FR	Nathaniel Olsen		12:34.2	
+Beyer
+15.	FR	Caleb Quartey		12:35.2	
+Crystal Springs Uplands
+16.	FR	Evan Mitchell		12:38.8	
+Vacaville
+17.	FR	Logan Dawson		12:40.9	
+Maria Carrillo
+18.	FR	Giuseppe Chiappetta		12:44.1	
+Berkeley
+19.	FR	Jacob Lantis		12:44.7	
+Willow Glen
+20.	FR	Jalen Madjidi		12:47.3	
+Berkeley
+21.	FR	Dexter Griffin		12:48.0	
+Berkeley
+22.	FR	Lorenzo Cilia		12:48.9	
+Vacaville
+23.	FR	Cleo McClain		12:49.9	
+St Helena
+24.	FR	Luke Lourenco		12:51.1	
+Beyer
+25.	FR	Kaelan Payne		12:53.2	
+Dougherty Valley
+26.	FR	Krish Majumdar		12:55.9	
+Dougherty Valley
+27.	FR	Matteo Small		12:58.1	
+Berkeley
+28.	FR	Skyler Kivley		13:04.4	
+Beyer
+29.	FR	Jonah Bosteels		13:06.2	
+Willow Glen
+30.	FR	Jayden Randolph		13:06.8	
+Benicia
+31.	FR	Tyler Jang		13:07.5	
+Crystal Springs Uplands
+32.	FR	Jack Murawczyk		13:07.8	
+Crystal Springs Uplands
+33.	FR	Nico Laub-Sabater		13:08.3	
+St Mary's College
+34.	FR	Gabriel Sekel		13:08.4	
+College Park
+35.	FR	Andy Quach		13:09.7	
+San Leandro
+36.	FR	Jonathan Donohue		13:12.6	
+Maria Carrillo
+37.	FR	Liam McKeown		13:14.1	
+Bellarmine College Prep
+38.	FR	Max Hickman		13:14.3	
+Bellarmine College Prep
+39.	FR	Gabriel Philipp		13:14.8	
+Clayton Valley
+40.	FR	Sonny Lowe		13:16.6	
+Bellarmine College Prep
+41.	FR	Miles Robinson		13:18.0	
+El Cerrito
+42.	FR	Ryan Elias		13:18.7	
+Beyer
+43.	FR	Julian Labbe		13:18.9	
+Homestead
+44.	FR	Julian Currier		13:20.6	
+Berkeley
+45.	FR	Michael Wood		13:22.6	
+Newark Memorial
+46.	FR	Oscar Ivy		13:24.7	
+San Leandro
+47.	FR	Isaac Salisbury		13:26.9	
+Dougherty Valley
+48.	FR	Seamus Orman		13:28.7	
+Bellarmine College Prep
+49.	FR	Tyler Ko		13:29.2	
+El Cerrito
+50.	FR	Ryan Baz		13:29.7	
+Rodriguez
+51.	FR	Caiden Dye		13:30.2	
+College Park
+52.	FR	Siyi Ji		13:30.8	
+Homestead
+53.	FR	Murteza Ghadiali		13:35.3	
+Bellarmine College Prep
+54.	FR	Max Baril		13:36.3	
+College Park
+55.	FR	Spencer Ye		13:38.4	
+Homestead
+56.	FR	Austin Chu		13:38.8	
+College Park
+57.	FR	Wyatt Rainey		13:39.5	
+Bellarmine College Prep
+58.	FR	Josh Fordelon		13:39.8	
+Campolindo
+59.	FR	Kaleb Kim		13:41.0	
+Homestead
+60.	FR	Kevin Gonzalez		13:41.4	
+De La Salle
+61.	FR	Harrison Blystra		13:41.5	
+Rodriguez
+62.	FR	Jaydan Sanchez		13:42.0	
+De La Salle
+63.	FR	Henry Gleason		13:43.8	
+Livermore
+64.	FR	Connor Counts		13:46.3	
+Bellarmine College Prep
+65.	FR	Noa Morishige		13:47.3	
+Bellarmine College Prep
+66.	FR	Oscar Martinez		13:48.2	
+Clayton Valley
+67.	FR	Andrew Hileman		13:48.6	
+St Helena
+68.	FR	Parker Unze		13:49.7	
+Willow Glen
+69.	FR	Jonathan Haro		13:50.1	
+San Leandro
+70.	FR	Jack Spencer		13:50.2	
+Miramonte
+71.	FR	Vale Johnson Vigeant		13:52.3	
+St Mary's College
+72.	FR	Tommy Snycerski		13:54.1	
+Bellarmine College Prep
+73.	FR	Max Valenzuela		13:56.1	
+Vacaville
+74.	FR	Gael Gonzalez		13:57.7	
+Newark Memorial
+75.	FR	Evan Smith		13:59.7	
+Justin-Siena
+76.	FR	Stuart May		14:00.3	
+Livermore
+77.	FR	Ryan Jetter		14:03.2	
+Clayton Valley
+78.	FR	Jethro Torres		14:03.5	
+Clayton Valley
+79.	FR	James Christensen		14:05.5	
+De La Salle
+80.	FR	Roman Jackson		14:09.5	
+Berkeley
+81.	FR	Ryan Walsh		14:13.1	
+De La Salle
+82.	FR	Will Pariso		14:15.0	
+De La Salle
+83.	FR	Liam Tierney		14:16.2	
+Miramonte
+84.	FR	Ben Zhong		14:16.8	
+Maria Carrillo
+85.	FR	Joshua Larks		14:18.6	
+Clayton Valley
+86.	FR	Paul Verdickt		14:18.6	
+St Joseph Notre Dame
+87.	FR	Gabe Jardin		14:18.9	
+St Joseph Notre Dame
+88.	FR	Mihir Gaudani		14:19.1	
+Livermore
+89.	FR	Braden Killeen		14:19.5	
+Vacaville
+90.	FR	Joshua Vienna		14:20.0	
+Antioch
+91.	FR	Leonel Ordaz		14:20.2	
+Livermore
+92.	FR	Alexander Pawlo		14:21.7	
+De La Salle
+93.	FR	Farron Lourens		14:30.2	
+Dublin
+94.	FR	Gabriel Stamat		14:31.9	
+Rodriguez
+95.	FR	Lucian Payne		14:32.1	
+Berkeley
+96.	FR	Simba Hood		14:32.5	
+Antioch
+97.	FR	John Ibarra		14:35.0	
+Newark Memorial
+98.	FR	Aidan Hernandez		14:35.3	
+Willow Glen
+99.	FR	Theo Schmitt		14:36.5	
+Berkeley
+100.	FR	Justin Batsukh		14:36.8	
+Berean Christian
+101.	FR	Brandon Maskey		14:37.7	
+Dublin
+102.	FR	Hugo Gerstman		14:38.9	
+El Cerrito
+103.	FR	Jose Alvarez		14:40.4	
+Newark Memorial
+104.	FR	Harry Waterman		14:42.4	
+Berkeley
+105.	FR	Lukas Herz		14:42.8	
+St Mary's College
+106.	FR	Brevin Reed		14:43.2	
+Homestead
+107.	FR	Anthony Bear		14:46.5	
+Clayton Valley
+108.	FR	Coleman Kong		14:48.3	
+San Leandro
+109.	FR	Nathan Madlansacoy		14:49.2	
+St Joseph Notre Dame
+110.	FR	Adithya Narayanan		14:51.0	
+Clayton Valley
+111.	FR	Johnathan Chavez		14:51.8	
+San Leandro
+112.	FR	Jerry Xu		14:52.4	
+Campolindo
+113.	FR	Andrew DeMitis		14:53.7	
+De La Salle
+114.	FR	Nathan Sledjeski		14:54.8	
+St Joseph Notre Dame
+115.	FR	Jurgis Vass		14:56.0	
+St Mary's College
+116.	FR	Tai Lee		14:56.2	
+Campolindo
+117.	FR	Charlie Werner		14:56.9	
+Berkeley
+118.	FR	Kristian DeAngelo Utanes		14:57.8	
+Benicia
+119.	FR	Erickson Guevarra		14:58.9	
+San Leandro
+120.	FR	Luke Amanquah		14:59.6	
+De La Salle
+121.	FR	Christopher(CJ) Olson		15:00.6	
+San Leandro
+122.	FR	Patrick Rivera		15:00.7	
+Clayton Valley
+123.	FR	Nate Catalano		15:01.2	
+St Mary's College
+124.	FR	Jack Carey		15:02.7	
+Justin-Siena
+125.	FR	Yi (Jack) Lei		15:05.9	
+San Leandro
+126.	FR	Connor Deakin		15:11.2	
+St Mary's College
+127.	FR	Diego Torres		15:11.8	
+Newark Memorial
+128.	FR	Cody Ambrosio		15:11.9	
+Newark Memorial
+129.	FR	Charles Covin-Rossi		15:12.9	
+Clayton Valley
+130.	FR	Kaelan Thouati de Tazoult		15:13.6	
+Berkeley
+131.	FR	Miguel Figueroa		15:17.8	
+Benicia
+132.	FR	Thomas Ruggles		15:21.2	
+Homestead
+133.	FR	Dushant Puri		15:27.1	
+Benicia
+134.	FR	Alan Nguyen		15:27.1	
+Willow Glen
+135.	FR	Heesoo Shin		15:30.6	
+Berean Christian
+136.	FR	Casey Dow		15:32.2	
+Campolindo
+137.	FR	Kyle Odmark		15:34.6	
+Miramonte
+138.	FR	Owen Fortner		15:35.8	
+Justin-Siena
+139.	FR	Leo Lorenzo		15:36.2	
+St Joseph Notre Dame
+140.	FR	Matthew Shih		15:37.1	
+St Joseph Notre Dame
+141.	FR	Collin Scarzeella		15:38.7	
+Antioch
+142.	FR	Cameron Wang		15:39.0	
+Justin-Siena
+143.	FR	Connor McGhee		15:40.9	
+Campolindo
+144.	FR	Landon Chen		15:41.1	
+Berean Christian
+145.	FR	Michael Risse		15:46.5	
+De La Salle
+146.	FR	Anthony Damian		15:49.9	
+Antioch
+147.	FR	Diego Wolverton		15:53.6	
+Willow Glen
+148.	FR	Ryan Lin		15:56.9	
+Dublin
+149.	FR	Eli Seligman		15:57.6	
+San Leandro
+150.	FR	Aiden Mandate		15:58.1	
+Rodriguez
+151.	FR	Axel Rodriguez		15:58.9	
+San Leandro
+152.	FR	Will Christie		15:58.9	
+St Joseph Notre Dame
+153.	FR	Kyle Brown		16:03.2	
+Newark Memorial
+154.	FR	Tyler Basham		16:03.8	
+Oakland Tech
+155.	FR	Eren Tuscia		16:09.1	
+Oakland Tech
+156.	FR	Kolby Reasoner		16:20.2	
+Beyer
+157.	FR	Luke Franklin		16:25.3	
+Miramonte
+158.	FR	Matthew Djajakusuma		16:29.7	
+Clayton Valley
+159.	FR	Domenic Cola		16:30.1	
+De La Salle
+160.	FR	Kai Kumar		16:35.1	
+Berkeley
+161.	FR	Arjun Parthasarathy		16:36.4	
+Crystal Springs Uplands
+162.	FR	Tommy-Joe Phelan		16:39.5	
+Berean Christian
+163.	FR	Jacob Molinelli		16:39.7	
+De La Salle
+164.	FR	Madex Kim		16:46.1	
+Willow Glen
+165.	FR	Caleb Spencer		16:48.6	
+Willow Glen
+166.	FR	Max Andelman		16:53.1	
+Oakland Tech
+167.	FR	Adrian Rodriguez		16:57.4	
+Willow Glen
+168.	FR	Darius Newman		17:00.9	
+Berean Christian
+169.	FR	Samuel Brown		17:01.5	
+Berean Christian
+170.	FR	Quinn Krumholz		17:16.9	
+Miramonte
+171.	FR	Benjamin Del Castillo		17:23.6	
+Justin-Siena
+172.	FR	Max Sanchez		17:25.1	
+Beyer
+173.	FR	Luke Trinkus		17:30.5	
+De La Salle
+174.	FR	Xavier Calderon		17:32.0	
+De La Salle
+175.	FR	Julian Ceja		17:34.9	
+Willow Glen
+176.	FR	Leon Ren		17:35.1	
+Miramonte
+177.	FR	Caleb Webb		17:37.4	
+Berean Christian
+178.	FR	Crow Vickers		17:44.5	
+Antioch
+179.	FR	Nathaniel Santo Domingo		17:48.5	
+Benicia
+180.	FR	Charlie Burke		17:55.5	
+Miramonte
+181.	FR	Kellen Baker		18:07.8	
+Miramonte
+182.	FR	Alex Resendez		18:14.9	
+San Leandro
+183.	FR	Britton Stringfellow		18:25.2	
+Vacaville
+184.	FR	Erwin Huerta		18:37.1	
+De La Salle
+185.	FR	Hayden Westover		18:46.6	
+Miramonte
+186.	FR	Buhler Ket		18:49.9	
+San Leandro
+187.	FR	Kellen Bach		18:54.8	
+De La Salle
+188.	FR	Logan Monahan		19:06.7	
+Berean Christian
+189.	SO	Shaun Aquino		19:22.6	
+Hercules
+190.	FR	Aum Patel		19:27.8	
+Antioch
+191.	FR	Kevin Ma		20:21.3	
+Campolindo
+192.	FR	Ryan Teresi		20:22.8	
+Justin-Siena
+193.	FR	Felix Faxakerly		23:08.7	
+Oakland Tech
